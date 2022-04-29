@@ -1,9 +1,9 @@
-#JSON ->Javascript Object Notataion
-#PDN -> Python Dictionary Notation
+# JSON ->Javascript Object Notataion
+# PDN -> Python Dictionary Notation
 
-dic1 ={
-    "id":1,
-    "username":"cos"
+dic1 = {
+    'id': 1,
+    'username': "cos"
 }
 
 dic2 = '''
